@@ -1,0 +1,9 @@
+# Runtime output: the headset's self-reports plus the server and keepawake logs.
+logs/
+*.log
+
+# Node dependencies (the project itself has none today).
+node_modules/
+
+# OS noise
+.DS_Store
